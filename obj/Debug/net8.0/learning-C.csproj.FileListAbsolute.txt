@@ -1,0 +1,14 @@
+/home/luca/Documents/code/studying/learning-C/bin/Debug/net8.0/learning-C
+/home/luca/Documents/code/studying/learning-C/bin/Debug/net8.0/learning-C.deps.json
+/home/luca/Documents/code/studying/learning-C/bin/Debug/net8.0/learning-C.runtimeconfig.json
+/home/luca/Documents/code/studying/learning-C/bin/Debug/net8.0/learning-C.dll
+/home/luca/Documents/code/studying/learning-C/bin/Debug/net8.0/learning-C.pdb
+/home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/learning-C.GeneratedMSBuildEditorConfig.editorconfig
+/home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/learning-C.AssemblyInfoInputs.cache
+/home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/learning-C.AssemblyInfo.cs
+/home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/learning-C.csproj.CoreCompileInputs.cache
+/home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/learning-C.dll
+/home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/refint/learning-C.dll
+/home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/learning-C.pdb
+/home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/learning-C.genruntimeconfig.cache
+/home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/ref/learning-C.dll
