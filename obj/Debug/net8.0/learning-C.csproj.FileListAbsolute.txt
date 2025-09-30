@@ -12,3 +12,4 @@
 /home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/learning-C.pdb
 /home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/learning-C.genruntimeconfig.cache
 /home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/ref/learning-C.dll
+/home/luca/Documents/code/studying/learning-C/obj/Debug/net8.0/learning-C.sourcelink.json
