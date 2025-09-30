@@ -5,6 +5,7 @@ public class Warrior
     // Fields are for internal uses only
     private int height; // Not a variable, it's called field
     private int weight; // Fields should be private
+    private string? name;
 
     // Propreties are mainly for external uses
     public int Height { get; set; } // This is a proprety
@@ -15,20 +16,22 @@ public class Warrior
     {
         Console.WriteLine($@"Greetings, {warrior.Name}!");
     }
+
+    public Warrior(int height, int weight, string name) // This is a constructor
+    {
+        Height = height;
+        Weight = weight;
+        Name = name;
+    }
 }
 
 public class EntryPoint
 {
     static void Main()
     {
-        Warrior theGoodGuy = new Warrior();
-        theGoodGuy.Height = 100;
-        theGoodGuy.Weight = 70;
-        theGoodGuy.Name = "Luca";
+        Warrior theGoodGuy = new Warrior(200, 60, "Luca");
 
-        Warrior theBadGuy = new Warrior();
-        theBadGuy.Height = 300;
-        theBadGuy.Weight = 200;
+        Warrior theBadGuy = new Warrior(100, 50, "Maria");
 
         Console.WriteLine(theBadGuy.Height);
         Console.WriteLine(theBadGuy.Weight);
