@@ -37,7 +37,7 @@ namespace Characters
         {
             Console.WriteLine($@"Greetings, {warrior.Name}!");
         }
-
+        // its possible to use this. to set a var is coming from this class, even if it's the same name of other class var
         public Warrior(int height, int weight, string name) // This is a constructor
         {
             Height = height;
