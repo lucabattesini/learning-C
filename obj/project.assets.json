@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/luca/Documents/code/studying/learning-C/learning-C.csproj",
+      "projectUniqueName": "/home/luca/Documents/code/study/learning-C/learning-C.csproj",
       "projectName": "learning-C",
-      "projectPath": "/home/luca/Documents/code/studying/learning-C/learning-C.csproj",
+      "projectPath": "/home/luca/Documents/code/study/learning-C/learning-C.csproj",
       "packagesPath": "/home/luca/.nuget/packages/",
-      "outputPath": "/home/luca/Documents/code/studying/learning-C/obj/",
+      "outputPath": "/home/luca/Documents/code/study/learning-C/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/luca/.nuget/NuGet/NuGet.Config"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.120/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
