@@ -6,7 +6,7 @@ public class EntryPoint
     {
         Warrior theGoodGuy = new Warrior(200, 60, "Luca");
 
-        Warrior theBadGuy = new Warrior(200, 50, "Maria");
+        Warrior theBadGuy = new Warrior(100, 50, "Maria");
 
         Console.WriteLine(theBadGuy.Height);
         Console.WriteLine(theBadGuy.Weight);

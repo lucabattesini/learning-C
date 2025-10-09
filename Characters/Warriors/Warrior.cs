@@ -24,7 +24,8 @@ namespace Characters
                 }
                 else
                 {
-                    Console.WriteLine("The height must be between 1,75 & 3 meters");
+                    throw new ArgumentOutOfRangeException(string.Empty, "The height must be between 1,75 & 3 meters");
+                    // Console.WriteLine("The height must be between 1,75 & 3 meters");
                 }
             }
         } // It's possible to make a property read only, or write only, by deleting get or set
